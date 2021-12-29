@@ -1,1 +1,14 @@
-name: "Yoga"
+name: Yoga
+
+platforms:
+    arm64-ios:
+        context:
+            flags: ['-std=c++11']
+
+    x86_64-osx:
+        context:
+            flags: ['-std=c++11']
+
+    web:
+        context:
+            flags: ['-std=c++11']

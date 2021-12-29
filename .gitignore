@@ -1,3 +1,6 @@
+/.internal
+/build
+yoga/include/dmsdk
 thirdparty/**/*
 !thirdparty/build.sh
 !thirdparty/CMakeLists.txt

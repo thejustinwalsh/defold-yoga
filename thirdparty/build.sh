@@ -30,8 +30,6 @@ mkdir -p ../../../yoga/lib/web
 cp libyogacore.a ../../../yoga/lib/web/libyogacore.a
 popd
 
-
-
 rm -rf ../yoga/include
 mkdir -p ../yoga/include
 cp yoga/yoga/*.h ../yoga/include
